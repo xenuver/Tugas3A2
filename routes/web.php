@@ -49,9 +49,14 @@ Route::get('/sosmed', function () {
         "title" => "Sosial Media"
     ]);
 });
-Route::get('/projectdesain', function () {
+Route::get('/tokopedia', function () {
     return view('desain', [
-        "title" => "Desain"
+        "title" => "Tokopedia"
+    ]);
+});
+Route::get('/discord', function () {
+    return view('discord', [
+        "title" => "Discord"
     ]);
 });
 

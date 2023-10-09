@@ -16,7 +16,10 @@
           <a class="nav-link" href="{{url('/sosmed')}}">Social Media</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{url('/projectdesain')}}">Project Desain</a>
+          <a class="nav-link" href="{{url('/tokopedia')}}">Tokopedia</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{url('/discord')}}">Discord</a>
         </li>
       </ul>
       <form class="d-flex">    
